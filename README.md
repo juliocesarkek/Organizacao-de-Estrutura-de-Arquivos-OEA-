@@ -12,7 +12,7 @@ Esse repositório foi criado para salvar os trabalhos de Organização de Estrut
      
      
      
-- Para compilar o código de ordenação de CEP com intercalação com 1/8 (O que fiz primeiro pra testar, já q no outro não tava dando pra abrir os ultimos arquivos):
+- Para compilar o código de ordenação de CEP com intercalação com 1/8 (adaptado primeiro pra testar, já q no outro não tava dando pra abrir os ultimos arquivos):
 
     Basta por o código na mesma pasta que os demais arquivos, da matéria, propostos;
 
