@@ -121,7 +121,7 @@ while(i<=14)
 {
 remove(file);
 i++;
-sprintf(file,"Cep%d.dat",i);  //Ultimo arquivo = Arquivo ordenado
+sprintf(file,"Cep%d.dat",i);  
 }
 
 }
