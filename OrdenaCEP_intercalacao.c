@@ -1,3 +1,5 @@
+//NOTA PESSOAL: Não esquecer de também fazer em java para praticar.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
