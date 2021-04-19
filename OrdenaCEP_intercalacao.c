@@ -119,14 +119,5 @@ i=1;
 }
 i=1;
 sprintf(file,"Cep%d.dat",i);
-//Aqui os arquivos estão sendo apagados e apenas o o ordenado (arquivo 15) está sendo mantido.
-//Está assim pq no meu computador parece que vai explodir pela qtd de arquivo que fica nas pastas, porém se quiser visualizar os demais,
-//basta comentar o trecho do código para impedir que sejam apagados.
-while(i<=14)
-{
-remove(file);
-i++;
-sprintf(file,"Cep%d.dat",i);  
-}
 
 }
