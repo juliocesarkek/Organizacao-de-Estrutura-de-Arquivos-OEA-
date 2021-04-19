@@ -121,7 +121,7 @@ sprintf(file,"Cep%d.dat",i);
 	
 //Aqui os arquivos estão sendo apagados e apenas o ordenado (arquivo 31) está sendo mantido.
 //Está assim pq no meu computador parece que vai explodir pela qtd de arquivo que fica nas pastas, porém se quiser visualizar os demais
-//basta comentar o trecho do código para impedir que sejam apagados e poder visualizar a ordenação nas etapas anteriores..
+//basta comentar o trecho do código para impedir que sejam apagados e poder visualizar a ordenação nas etapas anteriores.
 while(i<=30)
 {
 remove(file);
